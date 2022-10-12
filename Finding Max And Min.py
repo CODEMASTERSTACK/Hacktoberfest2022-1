@@ -1,3 +1,4 @@
 #Finding Max And Min
-l=list(map(int,input().strip().split()))
-print("The maximum number is : ",max(l),"\nThe minimum number is :",min(l))
+l=input("Enter The Value To Be Sorted")
+print("Maximum number is :",max(l))
+print("\nMinimum number is :",min(l))
